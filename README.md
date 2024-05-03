@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gurudev108
+- 👋 Hi, I’m @gurudev108 #theyogiclens
 - 👀 I’m interested in Artifical Intelligence, Human Organism and everything in between
 - 🌱 I’m currently learning how to articulate by thoughts and ideas in a language a machine learning model can understand
 - 💞️ I’m looking to collaborate on ["Artifical Intelligence", "Astrology", Ayurveda"], ["Embedded", "Wireless", "Bluetooth", "LTE", "5G"]
