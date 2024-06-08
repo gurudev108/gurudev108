@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artifical Intelligence, Human Organism and everything in between
 - 🌱 I’m currently learning how to articulate by thoughts and ideas in a language a machine learning model can understand
 - 💞️ I’m looking to collaborate on ["Artifical Intelligence", "Astrology", Ayurveda"], ["Embedded", "Wireless", "Bluetooth", "LTE", "5G"]
-- <3 Solving the mystery puzzle one day at a time
+- <3 Solving the mystery puzzle one day at a time #VIRGO
 - 📫 ankit.verma@hotmail.com
 
 <!---
